@@ -10,4 +10,6 @@ if (age == 33 && name == "Ewa" && sex == "Women")
 else if (age != 40 && name == "Ewa" && sex == "Women")
 {
     Console.WriteLine("Ewa jest starsza niż 33");
+
 }
+
